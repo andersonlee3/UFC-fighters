@@ -43,11 +43,11 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./assets/screen_record.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with ...
+GIF created with ScreenCastify
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
@@ -58,9 +58,12 @@ GIF created with ...
 
 Describe any challenges encountered while building the app.
 
+- Filtering out attributes based on the API response format.
+- Finding a good API with images and useful information.
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Anderson Lee]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
