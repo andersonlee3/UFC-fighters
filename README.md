@@ -4,7 +4,7 @@ Submitted by: **Anderson Lee**
 
 This web app: **gives information about random UFC fighters.**
 
-Time spent: **0** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
